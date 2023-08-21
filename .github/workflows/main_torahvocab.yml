@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'TorahVocab'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_807CEECBCD464E91985366B71B7F1CF4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_622634FEA6BE4FFD977C6D3CE0594993 }}
           package: .
